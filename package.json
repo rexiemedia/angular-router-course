@@ -25,6 +25,6 @@
     "lodash": "4.13.1",
     "systemjs": "0.19.27",
     "ts-node": "3.0.2",
-    "typescript": "2.2.0"
+    "typescript": "2.9.2"
   }
 }
